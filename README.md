@@ -15,7 +15,7 @@ This project aims to develop foundational skills in email threat analysis by dis
 
 * Sample Phishing Email - Contains sample phishing E-mail
 * Sample Phishing Email Report – Full analysis of a sample phishing email.
-* README.md` – Project summary, tools used, objectives, and recommendations (this file).
+* README.md – Task summary.
 
 ---
 
