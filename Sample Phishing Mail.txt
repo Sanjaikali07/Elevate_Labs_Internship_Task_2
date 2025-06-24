@@ -1,0 +1,16 @@
+From: security-alert@microsoftsupport-security.com
+Subject: Urgent Action Required - Account Suspension Warning
+Date: Fri, 21 Jun 2025 08:47:21 +0000
+Message-ID: <warning@alerts.microsoftsupport-security.com>
+
+Dear Valued Customer,
+
+We have detected suspicious activity in your Microsoft account. Your access will be suspended within 24 hours for security reasons.
+
+To resolve this issue, please verify your account by clicking the secure link below:
+http://microsoftsupport-loginverify.com/account-update
+
+Failure to verify will result in permanent account suspension.
+
+Thank you,
+Microsoft Account Security Team
