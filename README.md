@@ -1,6 +1,3 @@
-# Elevate_Labs_Internship_Task_2
-Elevate Labs Internship Task 2
-
 # Phishing Email Analysis Project
 
 ---
